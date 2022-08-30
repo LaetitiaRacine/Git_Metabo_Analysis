@@ -1,0 +1,12 @@
+
+# Ignore files in folder except .gitkeep
+exp/*
+!exp/.gitkeep
+data/*
+!data/.gitkeep
+html/*
+!html/.gitkeep
+
+# Ignore automatic created files
+.Rdata
+.Rhistory
