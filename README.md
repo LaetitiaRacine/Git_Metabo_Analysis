@@ -50,9 +50,9 @@ L'analyse s'effectue sous R.
   
 ### bulk ATAC-seq méthode FAST-ATAC
 
-Manipulations du 23 juillet 2019 et du 29 octobre 2019  
-**7 conditions** : Xvivo, CTRL, DON, 2DG, AOA, CTRLaK, VPA
-**Timings**: 00h, 03h, 06h, 12h, 24h  
+Manipulations du 23 juillet 2019 et du 29 octobre 2019    
+**7 conditions** : Xvivo, CTRL, DON, 2DG, AOA, CTRLaK, VPA  
+**Timings**: 00h, 03h, 06h, 12h, 24h    
 Fichiers au format .fastq pré-traités par la plateforme du CEA.    
 On démarre l'analyse à partir des fichiers .bam.   
 Une partie de l'analyse s'effectue en utilisant Snakefile et la suite sous R.      
